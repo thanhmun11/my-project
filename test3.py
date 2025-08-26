@@ -1,1 +1,2 @@
 b = "String"
+c = True
